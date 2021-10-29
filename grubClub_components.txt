@@ -1,0 +1,10 @@
+2N3904 transistor:  
+https://www.digikey.com/en/products/detail/nte-electronics-inc/2N3904/11648305
+
+Yellow LEDs:  
+https://www.digikey.com/en/products/detail/lumileds/LXM2-PL01-0000/3961250?s=N4IgjCBcoCwAxVAYygMwIYBsDOBTANCAPZQDaIATDAOwDMcArCIVXQGwQC6hADgC5QQAZT4AnAJYA7AOYgAvoQC0MRCBSQMOAsTIhaADgoBONiE4KQiiqvViArtpKRyRs3IvXnIUbgBGuTAACTDsAD1wiSTcgA
+
+Red LEDs:  
+https://www.digikey.com/en/products/detail/lumileds/LXM2-PD01-0050/3961247
+
+PCB machined by https://oshpark.com/. 
