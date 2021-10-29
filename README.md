@@ -1,2 +1,4 @@
 # grubClub
-grubClub PCB, arena STL, and component list
+https://doi.org/10.5281/zenodo.5621201
+
+
