@@ -12,6 +12,11 @@ The grubClub arena slides into the ethoscope and holds larvae in small round wel
 
 Since I am currently not recording larval behavior, I did not include an IR backlight for camera recordings. However, the PCB is designed such that an IR light strip can easily fit between the LED rows, enabling optogenetic stimulation and behavior recording at the same time. Finally, while red LEDs (~630 nm) might prevent a startle response, for my experimental design, I decided to stimulate at the spectral peak of my channelrhodopsin Chrimson (590 nm). The PCB supports LEDs of any color, and I included both options in the component list.
 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/56094636/139510059-25e6ec9f-84fa-4ee8-97d2-7e0da204128f.png" width="500" />
+  <img src="https://user-images.githubusercontent.com/56094636/139510102-7b6ecafc-c936-4aca-ac13-6bff3775d972.png" width="500" /> 
+</p>
+
 <img width="500" alt="grubClub_PCB" src="https://user-images.githubusercontent.com/56094636/139510059-25e6ec9f-84fa-4ee8-97d2-7e0da204128f.png">
 <img width="500" alt="grubClub_arena_lights" src="https://user-images.githubusercontent.com/56094636/139510102-7b6ecafc-c936-4aca-ac13-6bff3775d972.png">
 <img width="500" alt="grubClub_v3_schematic" src="https://user-images.githubusercontent.com/56094636/139601269-a0dc5495-feea-4ab1-a13c-37a58c444b2e.png">
