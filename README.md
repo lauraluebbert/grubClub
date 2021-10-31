@@ -18,8 +18,8 @@ Since I am currently not recording larval behavior, I did not include an IR back
 </p>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/56094636/139601269-a0dc5495-feea-4ab1-a13c-37a58c444b2e.png" height="450" />
-  <img src="https://user-images.githubusercontent.com/56094636/139601339-4830faa3-0bd4-4fae-b7d3-acbf85b5512b.png" height="450" /> 
+  <img src="https://user-images.githubusercontent.com/56094636/139601269-a0dc5495-feea-4ab1-a13c-37a58c444b2e.png" height="440" />
+  <img src="https://user-images.githubusercontent.com/56094636/139601339-4830faa3-0bd4-4fae-b7d3-acbf85b5512b.png" height="440" /> 
 </p>
 
 ![grubClub PCB](https://user-images.githubusercontent.com/56094636/139601286-2ef72724-cccf-4f6b-9c9d-bd818d46505a.mp4)
