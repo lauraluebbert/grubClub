@@ -14,3 +14,7 @@ Since I am currently not recording larval behavior, I did not include an IR back
 
 <img width="814" alt="Screen Shot 2021-10-29 at 4 03 30 PM" src="https://user-images.githubusercontent.com/56094636/139510059-25e6ec9f-84fa-4ee8-97d2-7e0da204128f.png">
 <img width="345" alt="Screen Shot 2021-10-29 at 4 04 15 PM" src="https://user-images.githubusercontent.com/56094636/139510102-7b6ecafc-c936-4aca-ac13-6bff3775d972.png">
+<img width="757" alt="grubClub_v3_schematic" src="https://user-images.githubusercontent.com/56094636/139601269-a0dc5495-feea-4ab1-a13c-37a58c444b2e.png">
+https://user-images.githubusercontent.com/56094636/139601286-2ef72724-cccf-4f6b-9c9d-bd818d46505a.mp4
+![grubClub_arena_v2](https://user-images.githubusercontent.com/56094636/139601272-1de4f191-daff-4514-9d27-3050494e0cc3.png)
+
