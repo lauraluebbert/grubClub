@@ -2,7 +2,7 @@
 Please cite the information in this repository using the following DOI:  
 [![DOI](https://zenodo.org/badge/422724743.svg)](https://zenodo.org/badge/latestdoi/422724743)
 
-I would like to present grubClub (“grub” for larva, and “club” for… well, you will see). I built off of the ethoscope (https://github.com/gilestrolab/ethoscope) by https://github.com/qgeissmann to enable automated long-term optogenetic stimulation of Drosophila larvae. Here is my Halloween release: https://twitter.com/NeuroLuebbert/status/1454220954666631170?s=20
+I would like to present grubClub (“grub” for larva, and “club” for… well, you will see). I built off of the ethoscope (https://github.com/gilestrolab/ethoscope) by https://github.com/qgeissmann to enable automated long-term optogenetic stimulation of Drosophila larvae. Here is my Halloween-style release: https://twitter.com/NeuroLuebbert/status/1454220954666631170?s=20
 
 GrubClub consists of a printed circuit board (PCB) and an accompanying arena. Both fit into the ethoscope published here: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003026.
 
